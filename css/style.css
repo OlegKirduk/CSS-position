@@ -42,3 +42,34 @@ h1,h2,h3,h3,h5,h6{font-size: inherit; font-weight: 400;}
 
 /*работа над проектом*/
 
+body{
+    padding: 30px;
+}
+.block{
+    border: 5px solid red;
+    max-width: 800px;
+    margin: 0 auto;
+    height: 550px;
+}
+.block_1{
+    background-color: yellow;
+    line-height: 50px;
+    font-size: 18px;
+    font-weight: 800;
+    text-align: center;
+}
+.block_2{
+    background-color: green;
+    line-height: 50px;
+    font-size: 18px;
+    font-weight: 800;
+    text-align: center;
+}
+}
+.block_3{
+    background-color: blue;
+    line-height: 50px;
+    font-size: 18px;
+    font-weight: 800;
+    text-align: center;
+}
