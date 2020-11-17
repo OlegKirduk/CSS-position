@@ -51,24 +51,18 @@ body{
     margin: 0 auto;
     height: 550px;
 }
-.block_1{
-    background-color: yellow;
+.block div{
     line-height: 50px;
     font-size: 18px;
     font-weight: 800;
     text-align: center;
 }
+.block_1{
+    background-color: yellow;
+}
 .block_2{
-    background-color: green;
-    line-height: 50px;
-    font-size: 18px;
-    font-weight: 800;
-    text-align: center;
+    background-color: green;   
 }
 .block_3{
     background-color: blue;
-    line-height: 50px;
-    font-size: 18px;
-    font-weight: 800;
-    text-align: center;
 }
